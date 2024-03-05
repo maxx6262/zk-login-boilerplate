@@ -1,3 +1,4 @@
+.env
 zklogin-ceremony-contributions
 key.json
 run_prover_services.sh
